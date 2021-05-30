@@ -29,7 +29,7 @@ print("""
 """)
 sleep(3)
 os.system("clear")
-print(Fore.GREEN)
+print(Fore.BLUE)
 print("""
 
 
@@ -42,8 +42,8 @@ _\ \ | | | | \__ \/ \/  \ (_) | | | | | | |_) |  __/ |
                                                          
 
 ________________________
-+t.Me/Nim_Config
-+ coding by @SirProG:)
+my id tel : @noobhackers009
+coded by @noobhackers009
 
 """)
 def snap(phone):
